@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1424788674 source:d:\softwaretest\softwaretest\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<direct.h>
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	"md5.h"
+	"version.h"
+
+1424949292 source:d:\softwaretest\softwaretest\version.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<direct.h>
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	"version.h"
+
+1424353520 d:\softwaretest\softwaretest\md5.h
+	<string>
+	<string.h>
+	<fstream>
+
+1424353391 source:d:\softwaretest\softwaretest\md5.cpp
+	"md5.h"
+
+1424788758 d:\softwaretest\softwaretest\version.h
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<direct.h>
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	"md5.h"
+	"version.h"
+
